@@ -19,10 +19,10 @@ const app = {
   },
   songs: [
     {
-      name: "Muộn rồi mà sao còn",
-      singer: "Sơn Tùng M-TP",
-      path: "https://aredir.nixcdn.com/Believe_Audio19/MuonRoiMaSaoCon-SonTungMTP-7011803.mp3?st=w9AA-eyRI7yD_VYGfvVWeQ&e=1623141624",
-      image: "https://pbs.twimg.com/media/Ez5jRyVVgAQN6Kh.jpg",
+      name: "Bông hoa chẳng thuộc về ta",
+      singer: "Việt x Deus",
+      path: "bonghoachangthuocveta.mp3",
+      image: "bonghoachangthuocveta.jpg",
     },
   ],
 
